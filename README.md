@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+:( We are a work in progress. Excuse the mess. I promise we are trying our best.
 <!--
 **VeauxaeunStudios/VeauxaeunStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
